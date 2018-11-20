@@ -1,0 +1,26 @@
+{
+	"pins": {
+		"344980171687723008": {
+			"344982770478481408": {},
+			"486599882254057482": {
+				"500344675777904641_0": {
+					"serverID": "344980171687723008",
+					"serverName": "Police Department",
+					"channelID": "486599882254057482",
+					"channelName": "verification",
+					"id": "500344675777904641",
+					"pos": 0,
+					"timestamp": 1539361866660,
+					"addedat": 1539362825054,
+					"color": null,
+					"authorID": "205445261042909184",
+					"authorName": "Andrew S. 2L-474",
+					"avatar": "/assets/322c936a8c8be1b803cd94861bdfa868.png",
+					"content": "https://www.dojrp.com/profile/2155-andrew-s-2l-474/",
+					"markup": "<a tabindex=\"0\" title=\"https://www.dojrp.com/profile/2155-andrew-s-2l-474/\" class=\"anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB da-anchor da-anchorUnderlineOnHover\" href=\"https://www.dojrp.com/profile/2155-andrew-s-2l-474/\" rel=\"noreferrer noopener\" target=\"_blank\" role=\"button\">https://www.dojrp.com/profile/2155-andrew-s-2l-474/</a>",
+					"accessory": ""
+				}
+			}
+		}
+	}
+}

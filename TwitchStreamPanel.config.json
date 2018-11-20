@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "colors": true,
+        "debug": false,
+        "freq": 300,
+        "pos": false,
+        "state": true,
+        "update": true
+    },
+    "streams": {
+        "439893947012349954": {}
+    }
+}

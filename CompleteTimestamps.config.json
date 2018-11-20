@@ -1,0 +1,18 @@
+{
+    "choices": {
+        "creationDateLang": "own"
+    },
+    "settings": {
+        "changeForEdit": false,
+        "cutSeconds": true,
+        "displayDate": true,
+        "displayTime": true,
+        "forceZeros": false,
+        "otherOrder": false,
+        "showInChat": true,
+        "showOnHover": false
+    },
+    "formats": {
+        "ownFormat": "$monthnameS $day $year $hour:$minute"
+    }
+}
